@@ -1,0 +1,4 @@
+﻿  Q228_SummaryRanges.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q228_SummaryRanges\Q228_SummaryRanges\Q228_SummaryRanges.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q228_SummaryRanges\Q228_SummaryRanges\Q228_SummaryRanges.cpp(16,19): warning C4018: '<': signed/unsigned mismatch
+  Q228_SummaryRanges.vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q228_SummaryRanges\Debug\Q228_SummaryRanges.exe
